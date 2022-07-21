@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSMediator", "CQRSMediator\CQRSMediator.csproj", "{DB217029-CD59-4AB8-84F5-1769AE2530FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB217029-CD59-4AB8-84F5-1769AE2530FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB217029-CD59-4AB8-84F5-1769AE2530FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB217029-CD59-4AB8-84F5-1769AE2530FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB217029-CD59-4AB8-84F5-1769AE2530FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6956761B-44AC-4F60-9772-B5AE485BCCB6}
+	EndGlobalSection
+EndGlobal
